@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109154772269",
+    "project_id": "logn-d506f",
+    "storage_bucket": "logn-d506f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109154772269:android:67d1bb9238be31d91c1fa4",
+        "android_client_info": {
+          "package_name": "com.eraa.exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109154772269-q5vrnlb8r9lgch0s3iig37b3vr3vf86v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUL4Wv7TPLgBuOGFxsKORyqSYKJ5M8NSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109154772269-q5vrnlb8r9lgch0s3iig37b3vr3vf86v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
